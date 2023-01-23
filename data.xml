@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+  <product>
+    <id>1</id>
+    <name>Молочный улун</name>
+    <price>500</price>
+    <description>Ароматный китайский чай, наполняющий энергией</description>
+  </product>
+  <product><id>2</id><name>Чай с Невского</name><price>Очень дорого</price><description>Со вкусом адреналина</description></product>
+  
+<product><id>4</id><name>Мате</name><price>444</price><description>Невероятно бодряще</description></product></products>
